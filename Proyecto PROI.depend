@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1481307245 source:c:\users\alejandro\documents\proyecto proi\libro.c
+	"libro.h"
+
+1483739818 c:\users\alejandro\documents\proyecto proi\libro.h
+	"headers.h"
+	"estructura.h"
+
+1481295469 c:\users\alejandro\documents\proyecto proi\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<stdint.h>
+	"util.h"
+
+1481294687 c:\users\alejandro\documents\proyecto proi\util.h
+	"headers.h"
+
+1481302373 c:\users\alejandro\documents\proyecto proi\estructura.h
+	"headers.h"
+
+1481307327 source:c:\users\alejandro\documents\proyecto proi\main.c
+	"headers.h"
+	"libro.h"
+
+1481294657 source:c:\users\alejandro\documents\proyecto proi\util.c
+	"util.h"
+
